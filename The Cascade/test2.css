@@ -1,0 +1,45 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.para, #Big-para {
+    color: black;
+    font-weight: 800;
+    font-size: 22px;
+}
+
+#Small-para {
+    font-size: 14px;
+}
+
+#Confirm-button {
+    background-color: green;
+    color: white;
+    font-weight: 800;
+}
+
+#Cancel-button {
+    background-color: white;
+    color: black;
+}
+
+.button {
+    font-size: 20px;
+}
+
+div.text {
+    color: black;
+    font-weight: 100;
+    font-size: 22px;
+}
+
+div .child {
+    color: black;
+    font-weight: 800;
+    font-size: 14px;
+}
+
+
+
+
